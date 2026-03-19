@@ -57,7 +57,7 @@ Auto Scaling is a cloud feature that automatically adds or removes resources (li
 
 # 🔹 Step 4: Create Launch Template
 
-
+![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/b5e71ed928f774497f21a3da94acbdea88353810/Create%20Launch%20Template.PNG)   
 
 
 # User Data
