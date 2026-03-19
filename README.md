@@ -82,4 +82,8 @@ systemctl enable httpd
 
 ![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/685796eafd713fcbd7b572fdc0a2e81d4ea17458/Final%20output.PNG)    
 
+# Conclusion 
+
+“In this project, I implemented an Auto Scaling Group with a Load Balancer to achieve high availability and scalability. The system automatically scales EC2 instances based on demand, ensures fault tolerance, and optimizes cost by running only required resources.”
+
 
