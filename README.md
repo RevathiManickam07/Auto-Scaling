@@ -78,5 +78,8 @@ systemctl enable httpd
 
 # 🔹 Step 5: Final output of the Autoscaling Project
 
+![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/685796eafd713fcbd7b572fdc0a2e81d4ea17458/Ec2%20instance%20created%20using%20ASG.PNG)   
+
+![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/685796eafd713fcbd7b572fdc0a2e81d4ea17458/Final%20output.PNG)    
 
 
