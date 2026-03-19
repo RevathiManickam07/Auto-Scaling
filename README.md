@@ -1,5 +1,5 @@
 # Auto-Scaling
-Highly Available Web Application Deployment using Auto Scaling
+**Highly Available Web Application Deployment using Auto Scaling**
 
 # 🔹 What is Auto Scaling?
 
