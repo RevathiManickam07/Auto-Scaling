@@ -1,28 +1,32 @@
 # Auto-Scaling
 Highly Available Web Application Deployment using Auto Scaling
 
-#🔹 What is Auto Scaling?
+# 🔹 What is Auto Scaling?
 
 Auto Scaling is a cloud feature that automatically adds or removes resources (like EC2 instances) based on demand.
 
 👉 In AWS, it is called Amazon EC2 Auto Scaling
 
-#🔹 Why do we use Auto Scaling?
+# 🔹 Why do we use Auto Scaling?
 
 *To handle high traffic automatically
+
 *To avoid server crashes
+
 *To save cost when traffic is low
 
-#🔹 How it works:
+# 🔹 How it works:
 1.You define minimum, desired, and maximum instances
 
 2.Set scaling policies (CPU usage, traffic, etc.)
 
 3.AWS automatically:
+
      Adds instances → when load increases 📈
+     
      Removes instances → when load decreases 📉
 
-#🔹 Advantages of Auto Scaling
+# 🔹 Advantages of Auto Scaling
 
    1.High Availability
    2.Cost Optimization
