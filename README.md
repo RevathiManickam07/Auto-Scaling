@@ -59,10 +59,20 @@ Auto Scaling is a cloud feature that automatically adds or removes resources (li
 
 # User Data
 
-'''#!/bin/bash
+```bash
+#!/bin/bash
 yum update -y
 yum install httpd -y
 systemctl start httpd
 systemctl enable httpd
-echo "Hello from Auto Scaling Instance" > /var/www/html/index.html'''
+```
+
+# 🔹 Step 4: Create Auto Scaling Group (ASG)
+
+
+
+
+# 🔹 Step 5: Final output of the Autoscaling Project
+
+
 
