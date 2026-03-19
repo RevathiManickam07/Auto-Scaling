@@ -48,7 +48,7 @@ Auto Scaling is a cloud feature that automatically adds or removes resources (li
 
 # 🔹 Step 2: Create Load Balancer (ALB)
 
-
+![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/be7bc5cb6de7b8238ee42f26886dbb96c4f8fc18/Create%20Load%20Balancer%20(ALB).PNG)   
 
 # 🔹 Step 3: Create Security Group
 
