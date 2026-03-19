@@ -42,7 +42,7 @@ Auto Scaling is a cloud feature that automatically adds or removes resources (li
 
 # Practical steps to create auto scaling in aws:
 
-# step 1:Create Target Group
+# 🔹  step 1:Create Target Group
 
 ![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/d3d4259d42c450ccffdb2fe4f85cabcc66952ca3/Create%20Target%20Group.PNG)    
 
