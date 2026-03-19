@@ -29,15 +29,23 @@ Auto Scaling is a cloud feature that automatically adds or removes resources (li
 # 🔹 Advantages of Auto Scaling
 
    1.High Availability
+   
    2.Cost Optimization
+   
    3.Better Performance
+   
    4.Fault Tolerance
+   
    5.Scalability
+   
 #🔹 Real-Time Use Cases
 
    1.E-commerce Websites (Flipkart / Amazon)
+   
    2.Healthcare Application
+   
    3.OTT Platforms (Netflix)
+   
    4.Banking Applications
 
 # Practical steps to create auto scaling in aws:
