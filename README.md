@@ -52,6 +52,7 @@ Auto Scaling is a cloud feature that automatically adds or removes resources (li
 
 # 🔹 Step 3: Create Security Group
 
+![Image Alt](https://github.com/RevathiManickam07/Auto-Scaling/blob/c0ee817a93afe1db7a7c4d535c469a6d777aa806/Create%20security%20group.PNG)    
 
 
 # 🔹 Step 4: Create Launch Template
